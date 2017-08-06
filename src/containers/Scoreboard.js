@@ -45,7 +45,7 @@ class Scoreboard extends Component {
 
 const mapStateToProps = state => (
 	{
-		players: state.players
+		players: state
 	}
 );
 
